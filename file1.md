@@ -1,6 +1,6 @@
 ---
 title: poster_1
-layout: index
+layout: page
 filename: file1.md
 --- 
 ## Here put some posters
