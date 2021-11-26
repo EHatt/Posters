@@ -1,5 +1,6 @@
-layout: page
-title: "poster_1"
-permalink: /https://ehatt.github.io/Posters/
-
+---
+title: poster_1
+layout: template
+filename: file1.md
+--- 
 ## Here put some posters
